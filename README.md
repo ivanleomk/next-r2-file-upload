@@ -1,6 +1,6 @@
 ## Project Name
 
-This project demonstrates how to use the aws-sdk to upload files to R2 using NextJS and a few different environment variables. You can check out the [accompanying article](https://ivanleo.com/blog/uploading_files_in_nextjs_to_r2) here that walks you through the code
+This project demonstrates how to use the aws-sdk to upload files to R2 using NextJS and a few different environment variables. You can check out the [accompanying article](https://www.ivanleo.com/blog/uploading_files_in_nextjs_to_r2_with_server_actions) here that walks you through the code
 
 ## Prerequisites
 
